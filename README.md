@@ -1,6 +1,9 @@
 # awesome-hardware-test :robot:
 A curated list of awesome hardware test projects
 
+### Test Analytics
+- [TofuPilot](https://www.tofupilot.com/) - a ready-to-use analytics platform for manufacturing tests that works with any test result format, easily uploaded via Python client or REST API
+
 ### Test Execution Engines
 - [crappy](https://github.com/LaboratoireMecaniqueLille/crappy) stands for Command and Real-time Acquisition in Parallelized PYthon - a framework to control hardware tests
 - [exclave](https://github.com/exclave/exclave) - a factory test infrastructure, written in Rust
@@ -11,9 +14,6 @@ A curated list of awesome hardware test projects
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
-
-### Test Analytics
-- [TofuPilot](https://www.tofupilot.com/) - a ready-to-use analytics platform for manufacturing tests that works with any test result format, easily uploaded via Python client or REST API
 
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
