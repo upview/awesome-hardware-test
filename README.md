@@ -13,7 +13,7 @@ A curated list of awesome hardware test projects
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
 
 ### Test Analytics
-- [TofuPilot]([https://www.tofupilot.com/) - a ready-to-use analytics platform for manufacturing tests that works with any test result format, easily uploaded via Python client or REST API
+- [TofuPilot](https://www.tofupilot.com/) - a ready-to-use analytics platform for manufacturing tests that works with any test result format, easily uploaded via Python client or REST API
 
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
